@@ -1,2 +1,0 @@
-# HelpAid
- nope its fine
